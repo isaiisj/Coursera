@@ -4,4 +4,4 @@ in the following link https://www.py4e.com/html3/ and some other version and lan
 
 1. Getting Started With Python
 2. Python Data Structures
-3. Using Python To Acces Web Data
+3. Using Python To Access Web Data
