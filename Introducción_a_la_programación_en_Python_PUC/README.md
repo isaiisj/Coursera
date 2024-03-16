@@ -1,1 +1,1 @@
-<h1>Introducción a la programación en Python (Pontificia Universidad Catolica de Chile)</h1>
+<h1>Introducción a la programación en Python (Pontificia Universidad Católica de Chile)</h1>
