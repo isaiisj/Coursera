@@ -14,8 +14,8 @@
 #que estamos utilizando en cada caso.
 
 
-#Para conocer un poco mÃ¡s del usuario, vamos a preguntarle algunos datos.
-#Por ejemplo, su aÃ±o de nacimiento, y aprovecharemos este dato descubrir la edad del usuario.
+#Para conocer un poco más del usuario, vamos a preguntarle algunos datos.
+#Por ejemplo, su año de nacimiento, y aprovecharemos este dato descubrir la edad del usuario.
 #Cómo lo haremos?, usaremos una variable para guardar el resultado del cálculo de
 #la edad del usuario. Este es un dato de tipo entero.
 
@@ -26,11 +26,11 @@
 #que escriba un mensaje para desplegar en pantalla.
 
 ############################################################
-# Lo primero que haremos serÃ¡ escribir un mensaje de bienvenida al usuario
+# Lo primero que haremos será escribir un mensaje de bienvenida al usuario
 # con el nombre de la red. Puedes modificar este mensajes para que represente el nombre de tu propia red
-# Considera que al escribir """ tambiÃ©n estamos delimitado un string, pero al hacerlo de esta manera,
-# cambios de lÃ­nea que ocurran en el cÃ³digo se considerarÃ¡n como parte del string.
-# Si no estÃ¡s convencido, prueba el funcionamiento reemplazando los delimitadores por "
+# Considera que al escribir """ también estamos delimitado un string, pero al hacerlo de esta manera,
+# cambios de lí­nea que ocurran en el código se considerarón como parte del string.
+# Si no estás convencido, prueba el funcionamiento reemplazando los delimitadores por "
 
 print("Bienvenido a ... ")
 print("""
@@ -42,28 +42,28 @@ print("""
 
 """)
 
-#Primera interacciÃ³n. Solicitamos al usuario que ingrese su nombre,
+#Primera interacción. Solicitamos al usuario que ingrese su nombre,
 #y lo guardamos en una variable de tipo str
 nombre = input("Para empezar, dime como te llamas. ")
 print()
 print("Hola ", nombre, ", bienvenido a Mi Red")
 print()
 
-#Segunda interacciÃ³n. Solicitamos el ingreso del aÃ±o, y utilizamos este
-#dato para estimar la edad de la persona. Â¿Por quÃ© decimos que solo estamos "estimando" su edad?
-#Â¿QuÃ© ocurre si eliminamos la conversiÃ³n a tipo de dato 'int' de la siguiente lÃ­nea?
+#Segunda interacción. Solicitamos el ingreso del aÃ±o, y utilizamos este
+#dato para estimar la edad de la persona. ¿Por qué decimos que solo estamos "estimando" su edad?
+#¿Qué ocurre si eliminamos la conversión a tipo de dato 'int' de la siguiente lí­nea?
 agno = int(input("Para preparar tu perfil, dime en que año naciste. "))
 edad = 2017-agno-1
 print()
 
-#Tercera interacciÃ³n. Solicitamos la estatura, medida en metros.
-#Utilizamos la conversiÃ³n a 'int', y una expresiÃ³n para convertir esto
-#a una medida en metros y centÃ­metros
+#Tercera interacción. Solicitamos la estatura, medida en metros.
+#Utilizamos la conversión a 'int', y una expresión para convertir esto
+#a una medida en metros y centímetros
 estatura = float(input("Cuentame más de ti, para agregarlo a tu perfil. ¿Cuánto mides? Dí­melo en metros. "))
 estatura_m = int(estatura)
 estatura_cm = int( (estatura - estatura_m)*100 )
 
-#Cuarta interacción. Consultamos cuÃ¡ntos amigos tiene el usuario.
+#Cuarta interacción. Consultamos cuántos amigos tiene el usuario.
 num_amigos = int(input("Muy bien. Finalmente, cuentame cuantos amigos tienes. "))
 
 #Con los datos recolectados escribimos en pantalla un texto que resuma los datos que hemos obtenido
