@@ -1,11 +1,33 @@
-#1
+'''
+1. Esta será la forma de evaluar la escritura de código en este curso. 
+Habrá un código incompleto (será una función de Python, pero de eso no debes preocuparte todavía),
+y tú deberás completarlo.
+
+Por ejemplo, aquí escribe en la línea 3lo siguiente: 
+suma = a + b (cuidando que tenga la misma cantidad de espacios a la izquierda que la línea anterior).
+
+Estas a y b no deberán ser definidas: uno puede pensarlo como que, 
+todos los nombres que van entre paréntesis después del nombre de la función, tendrán el valor correcto. 
+'''
 def sumador(a, b):
   # Acá abajo escribe lo que pedimos
   suma = a + b
   # No cambies esta línea
   return suma
 
-#2
+'''
+2. En esta funciones no buscamos que impriman nada con print,
+sino que retornen una variable. Por ejemplo, si están pidiendo 
+la suma de dos números, como en la pregunta pasada, le devolveremos
+al que preguntó una variable que contenga el valor de la suma. 
+
+En esta pregunta, hay cuatro variables definidas, 
+pero solo debes retornar una (es decir, en la línea 8 poner
+algo como return algo, con algo una opción entre var1, var2, var3, var4). 
+En esta pregunta debes retornar la multiplicación de
+los dos parámetros (valores dentro de paréntesis después del nombre de la función) que
+se pasan a la función. ¿Cuál de las cuatro variables será?
+'''
 def multiplicacion(a, b):
   var1 = a + b
   var2 = a + var1
