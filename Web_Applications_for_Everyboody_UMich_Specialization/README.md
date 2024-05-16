@@ -1,1 +1,1 @@
-<h1>Web Applications for Everybody</h1>
+<h1>Web Applications for Everybody (University of Michigan) Specialization</h1>
