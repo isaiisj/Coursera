@@ -1,5 +1,5 @@
-# Coursera
-A repo of coursera courses and specializations
+<h1> Coursera </h1>
+<p>A repo of coursera courses and specializations</p>
 <ul>
   <li>Blockchain (University At Buffalo) Specialization</li>
   <li>Introducción a la programación en Python (Pontificia Universidad Católica de Chile)</li>
