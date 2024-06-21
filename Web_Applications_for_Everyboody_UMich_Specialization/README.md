@@ -4,4 +4,5 @@
   <li>Building Web Applications in PHP</li>
   <li>Introduction to Structured Query Language (SQL)</li>
   <li>Building Database Applications in PHP</li>
+  <li>JavaScript, JQuery and JSON</li>
 </ol>
