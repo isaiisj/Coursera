@@ -26,3 +26,19 @@ CREATE TABLE Member (
 
     PRIMARY KEY (user_id, course_id)
 ) ENGINE=InnoDB CHARACTER SET=utf8;
+
+
+INSERT INTO user(user_id,name) VALUES (NULL, "Kalin");
+INSERT INTO user(user_id,name) VALUES (NULL, "Afrina");
+INSERT INTO user(user_id,name) VALUES (NULL, "Eisa");
+INSERT INTO user(user_id,name) VALUES (NULL, "Katharine");
+INSERT INTO user(user_id,name) VALUES (NULL, "Keilee");
+INSERT INTO user(user_id,name) VALUES (NULL, "Kier");
+INSERT INTO user(user_id,name) VALUES (NULL, "Aleshia");
+INSERT INTO user(user_id,name) VALUES (NULL, "Gomana");
+INSERT INTO user(user_id,name) VALUES (NULL, "Lily");
+INSERT INTO user(user_id,name) VALUES (NULL, "Rhiannan");
+INSERT INTO user(user_id,name) VALUES (NULL, "Zofia");
+INSERT INTO user(user_id,name) VALUES (NULL, "Hasini");
+INSERT INTO user(user_id,name) VALUES (NULL, "Orlaith");
+INSERT INTO user(user_id,name) VALUES (NULL, "Riyaj");
