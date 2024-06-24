@@ -28,6 +28,11 @@ CREATE TABLE Member (
 ) ENGINE=InnoDB CHARACTER SET=utf8;
 
 
+---------------------------------------------------------------
+-- We can insert NULL as value and the autoincrement
+-- property will put the numbers automatically
+-------------------------------------------------------------
+
 INSERT INTO user(user_id,name) VALUES (NULL, "Kalin");
 INSERT INTO user(user_id,name) VALUES (NULL, "Afrina");
 INSERT INTO user(user_id,name) VALUES (NULL, "Eisa");
