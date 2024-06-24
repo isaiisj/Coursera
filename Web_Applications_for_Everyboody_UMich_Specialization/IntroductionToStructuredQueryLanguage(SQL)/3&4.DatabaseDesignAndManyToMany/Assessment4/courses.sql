@@ -42,3 +42,8 @@ INSERT INTO user(user_id,name) VALUES (NULL, "Zofia");
 INSERT INTO user(user_id,name) VALUES (NULL, "Hasini");
 INSERT INTO user(user_id,name) VALUES (NULL, "Orlaith");
 INSERT INTO user(user_id,name) VALUES (NULL, "Riyaj");
+
+
+INSERT INTO course (course_id,title) values (NULL,"si106");
+INSERT INTO course (course_id,title) values (NULL,"si110");
+INSERT INTO course (course_id,title) values (NULL,"si206");
