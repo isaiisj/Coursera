@@ -52,3 +52,6 @@ INSERT INTO user(user_id,name) VALUES (NULL, "Riyaj");
 INSERT INTO course (course_id,title) values (NULL,"si106");
 INSERT INTO course (course_id,title) values (NULL,"si110");
 INSERT INTO course (course_id,title) values (NULL,"si206");
+
+
+INSERT INTO member (user_id,course_id,role) VALUES (1,1,1);
