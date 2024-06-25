@@ -45,6 +45,7 @@ INSERT INTO user(user_id,name) VALUES (NULL, "Lily");
 INSERT INTO user(user_id,name) VALUES (NULL, "Rhiannan");
 INSERT INTO user(user_id,name) VALUES (NULL, "Zofia");
 INSERT INTO user(user_id,name) VALUES (NULL, "Hasini");
+INSERT INTO user(user_id,name) VALUES (NULL, "Hussnan");
 INSERT INTO user(user_id,name) VALUES (NULL, "Orlaith");
 INSERT INTO user(user_id,name) VALUES (NULL, "Riyaj");
 
