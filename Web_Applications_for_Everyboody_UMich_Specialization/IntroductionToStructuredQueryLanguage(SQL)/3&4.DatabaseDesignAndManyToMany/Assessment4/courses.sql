@@ -70,3 +70,13 @@ INSERT INTO member (user_id,course_id,role) VALUES (12,2,0);
 INSERT INTO member (user_id,course_id,role) VALUES (13,2,0);
 INSERT INTO member (user_id,course_id,role) VALUES (14,2,0);
 INSERT INTO member (user_id,course_id,role) VALUES (15,2,0);
+
+
+-------------------------------------------------------------------------
+-- To test if the data has been entered properly we run the next command
+-------------------------------------------------------------------------
+
+SELECT `User`.name, Course.title, Member.role
+    FROM `User` JOIN Member JOIN Course
+    ON `User`.user_id = Member.user_id AND Member.course_id = Course.course_id
+    ORDER BY Course.title, Member.role DESC, `User`.name
