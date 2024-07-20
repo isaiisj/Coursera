@@ -1,4 +1,5 @@
-'''Write a program to read through the mbox-short.txt 
+'''
+Write a program to read through the mbox-short.txt 
 and figure out the distribution 
 by hour of the day for each of the messages. 
 You can pull the hour out from the 'From ' line by finding 
