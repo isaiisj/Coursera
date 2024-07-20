@@ -1,6 +1,9 @@
-'''In this assignment you will read through and parse a file with text and numbers.
+'''
+In this assignment you will read through and parse a file with text and numbers.
 You will extract all the numbers in the file and compute the sum of the numbers.
-it should work with regex_sum.txt file '''
+it should work with regex_sum.txt file 
+'''
+
 import re
 
 name = input("enter the file name: ")
