@@ -5,5 +5,6 @@
   <li>Introducción a la programación en Python (Pontificia Universidad Católica de Chile)</li>
   <li>Introduction to Machine Learning (Duke University)</li>
   <li>Python for Everybody (PY4E) (University of Michigan) Specialization</li>
+  <li>Web Applications for Everybody (WA4E) (Univerity of Michigan)</li>
   <li>Web Design for Everybody (WD4E) (University of Michigan) Specialization</li>
 </ul>
