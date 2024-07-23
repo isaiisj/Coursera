@@ -21,9 +21,11 @@ repeat = int(input('Enter number of repeatations: '))
 position = int(input('Enter the link position: '))
 
 # Retrieve all of the anchor tags
-'''tags = soup('a')
+'''
+tags = soup('a')
 for tag in tags:
-    print(tag.get('href', None))'''
+    print(tag.get('href', None))
+'''
 
 for i in range(repeat):
     html = urllib.request.urlopen(url, context=ctx).read()
