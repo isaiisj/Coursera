@@ -5,4 +5,4 @@
 <p>Centered around projects, this Specialization will help you create a portfolio of work to demonstrate your new programming skills. In the capstone you will create a recommender engine similar to those used by Netflix or Amazon. Additional projects in your portfolio will include:an interactive webpage that applies filters to images, an analysis of CSV data files, an encryption program, and a predictive text generator.</p>
 
 <h3>Resources</h3>
-<p>Resources with sample codes, documentation and links to download the software used throughout each one of the five courses can be found <a href="https://www.dukelearntoprogram.com/index.php">clicking here</a>.In this website made for students by Duke University you can also find a FAQ section.</p>
+<p>Resources with sample codes, documentation and links to download the software used throughout each one of the five courses can be found <a href="https://www.dukelearntoprogram.com/index.php">clicking here</a>. In this website made for students by Duke University you can also find a FAQ section.</p>
