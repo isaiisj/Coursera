@@ -6,6 +6,10 @@
 
 <h2>Courses</h2>
 <h3>1. Programming Foundations with JavaScript, HTML and CSS</h3>
+<h3>2. Java Programming: Solving Problems with Software</h3>
+<h3>3. Java Programming: Arrays, Lists, and Structured Data</h3>
+<h3>4. Java Programming: Principles of Software Design</h3>
+<h3>5. Java Programming: Build a Recommendation System</h3>
 
 <h3>Resources</h3>
 <p>Resources with sample codes, documentation and links to download the software used throughout each one of the five courses can be found <a href="https://www.dukelearntoprogram.com/index.php">clicking here</a>. In this website made for students by Duke University you can also find a FAQ section.</p>
