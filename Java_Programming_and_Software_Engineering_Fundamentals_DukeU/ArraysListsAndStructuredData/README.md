@@ -1,3 +1,3 @@
-<h1>Cryptography: Keeping Information Secret</h1>
-<h2>GladLibs: Stories from Templates</h2>
-<h2>Web Server Logs: From Logs to Visits</h2>
+<h3>Cryptography: Keeping Information Secret</h3>
+<h3>GladLibs: Stories from Templates</h3>
+<h3>Web Server Logs: From Logs to Visits</h3>
