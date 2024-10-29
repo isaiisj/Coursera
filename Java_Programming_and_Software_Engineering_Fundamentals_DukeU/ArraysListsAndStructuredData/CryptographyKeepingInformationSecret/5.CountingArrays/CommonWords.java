@@ -6,8 +6,7 @@
  */
 import edu.duke.*;
 
-public class CommonWords
-{
+public class CommonWords{
     public String[] getCommon(){
 		FileResource resource = new FileResource("data/common.txt");
 		String[] common = new String[20];
