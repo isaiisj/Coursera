@@ -23,7 +23,7 @@ public class DiceRolling {
 		    System.out.println(k + "'s=\t" + counts[k] + "\t" + 100.0 * counts[k]/rolls);
 		}
 		
-  }
+  	}
 
 	
 	public void simpleSimulate(int rolls){
