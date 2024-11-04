@@ -43,7 +43,7 @@ public class CaesarCipher {
 
     public void testCaesar(){
         int key = 12;
-        FileResource fr = new FileResource();
+        FileResource fr = new FileResource("TextToEncrypt.txt");
         String message = fr.asString();
         String encrypted = encrypt(message,key);
         System.out.println("Key is " + key + "\n" + encrypted);
