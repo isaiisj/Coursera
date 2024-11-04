@@ -15,5 +15,6 @@ public class Main {
         System.out.println(cesar.encrypt("First Legion",23));
         System.out.println(cesar.encrypt("First Legion",17));
         System.out.println(cesar.encryptTwoKeys("First Legion",23,17));
+        cesar.testCaesar();
     }
 }
