@@ -28,6 +28,7 @@ public class Main {
         }*/
         
 
+        /*
         for (int i = 0; i < 26; i++) {
             for (int k = 25; k >= 0; k--){
                 //Testing the first five words of mysteryTwoKeysPractice.txt file
@@ -35,7 +36,7 @@ public class Main {
                 System.out.println(breaker.decryptTwoKeysInput("Xifqvximt tsdtlxzrx iijirvtl ek Uybi",i,k));
                 System.out.println("\n");
             }
-        }
+        }*/
 
 
     }
