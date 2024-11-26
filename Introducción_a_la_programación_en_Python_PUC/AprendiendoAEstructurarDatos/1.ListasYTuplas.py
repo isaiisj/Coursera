@@ -25,6 +25,8 @@ def agregar_entero(lista, entero):
 
 print(agregar_entero(lista,13))
 
+##################################################################
+
 '''
 2.
 Tienes una lista de enteros repetidos:
@@ -37,3 +39,16 @@ el número de veces que se repite el entero que se repite más veces dentro
 de la lista. En el ejemplo anterior, el entero que más se repite es el 1, 
 el cual se repite 7 veces, por lo que tu función deberá retornar 7.
 '''
+
+lista = [1,4,6,2,4,3,1,1,3,5,6,7,3,4,5,5,5,3,3,2,1,2,1,1,1,2,6,6]
+
+def max_repetido(lista):
+    counted = []
+    for num in lista:
+        if num not in counted:
+            frecuency = lista.count(num)
+            counted.append(frecuency)
+    return max(counted)
+    #Rellenar
+
+print(max_repetido(lista))
