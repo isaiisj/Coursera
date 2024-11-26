@@ -52,3 +52,38 @@ def max_repetido(lista):
     #Rellenar
 
 print(max_repetido(lista))
+
+######################################################################
+
+'''
+3.
+Tienes una lista con los nombres y apellidos de estudiantes de un curso, 
+ordenados alfabéticamente por apellido y luego por nombre:
+
+estudiantes = [
+'Mario Avedaño',
+'Policarpo Avedaño',
+'Juan Bodoque',
+'Juanin Harry',
+'Mario Hugo',
+'Dylan Manguera',
+'Eusebio Manguera'
+]
+
+Deberás definir la función agregar_estudiante(lista, estudiante), 
+la cual recibe como parámetro una lista en el formato anterior y 
+el nombre de un nuevo estudiante. La función deberá agregar al estudiante
+en la posición correcta (ordenado alfabéticamente por apellido y nombre) 
+de la lista y luego retornar la lista. Por ejemplo, si en la lista anterior
+se agrega el estudiante 'Eliza Manguera', entonces tu función deberá retornar:
+
+['Mario Avedaño',
+'Policarpo Avedaño',
+'Juan Bodoque',
+'Juanin Harry',
+'Mario Hugo',
+'Dylan Manguera',
+'Eliza Manguera',
+'Eusebio Manguera'
+]
+'''
