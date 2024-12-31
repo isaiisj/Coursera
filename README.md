@@ -1,7 +1,7 @@
 <h1> Coursera </h1>
 <p>A repo of coursera courses and specializations</p>
 <ul>
-  <li>Blockchain (University At Buffalo) Specialization</li>
+  <li>Blockchain (University At Buffalo) <strong>Specialization</strong></li>
   <li>Desarrollo de aplicaciones móviles con Android (Universidad Nacional Autónoma de México) Specialization</li>
   <li>Introducción a la programación en Python (Pontificia Universidad Católica de Chile)</li>
   <li>Introduction to Machine Learning (Duke University)</li>
