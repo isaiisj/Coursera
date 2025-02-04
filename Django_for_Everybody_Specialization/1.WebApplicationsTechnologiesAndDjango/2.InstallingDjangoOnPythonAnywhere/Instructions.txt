@@ -1,0 +1,17 @@
+Assignment instructions: 
+https://www.dj4e.com/assn/dj4e_install.md?PHPSESSID=40cf50ee61a100cbdb635b1223d9997e
+
+This assignment will cover the material in Part 1 of the Django tutorial at 
+https://docs.djangoproject.com/en/4.2/intro/tutorial01/ but since we are doing the
+installation on PythonAnywhere you will need to go back and forth between the Django
+tutorial and our instructions to finish the assignment.
+
+To receive a grade for this assignment, include this string 948221b0 on the pages
+of your application.
+
+Here is a sample of what you might put into your views.py.
+    return HttpResponse("Hello, world. 948221b0 is the polls index.")
+
+Also you will need to edit the file mysite/mysite/settings.py and edit the
+ALLOWED_HOSTS to look as follows:
+    ALLOWED_HOSTS = ['*']
