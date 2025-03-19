@@ -1,6 +1,7 @@
 <h1> Coursera </h1>
 <p>A repo of coursera courses and specializations</p>
 <ul>
+  <li>Amazon Junior Software Developer</li>
   <li>Blockchain (University At Buffalo) <strong>Specialization</strong></li>
   <li>Desarrollo de aplicaciones móviles con Android (Universidad Nacional Autónoma de México) <strong>Specialization</strong></li>
   <li>Introducción a la programación en Python (Pontificia Universidad Católica de Chile)</li>
