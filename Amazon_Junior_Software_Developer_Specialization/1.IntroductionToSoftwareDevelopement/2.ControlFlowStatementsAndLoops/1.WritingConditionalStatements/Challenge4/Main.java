@@ -25,7 +25,7 @@ public class Main {
         else if (moneyLeftWithToni >= 50){
             System.out.println("Have an ice cream");
         }
-        else if (moneyLeftWithToni < 50){
+        else {
             System.out.println("Think about the money spent");
         }
 
