@@ -5,3 +5,9 @@
   Additionally, the lessons emphasize logical program design, access modifiers, abstract classes, and interfaces to enhance 
   code scalability and maintainability. Through hands-on exercises and real-world examples, you will deepen your understanding 
   of Java programming fundamentals, paving the way for effective software development practices.</p>
+  <h2>Learning Objectives</h2>
+  <ul>
+    <li>Demonstrate proficiency in code reusability through method creation.</li>
+    <li>Interpret the role of the Main class and object instantiation.</li>
+    <li>Apply object-oriented principles such as inheritance and encapsulation effectively.</li>
+  </ul>
