@@ -5,6 +5,7 @@
   You'll also cover Stacks and Queues, mastering their use in scenarios that require Last-In-First-Out (LIFO) and
   First-In-First-Out (FIFO) operations, respectively. This module equips you with essential skills to effectively implement
   and utilize these data structures in real-world applications.</p>
+  <h2>Learning Objectives</h2>
   <ul>
     <li>Gain practical skills in applying fundamental data structures to real-world programming scenarios</li>
     <li>Implement Stacks and Queues, utilizing Last-In-First-Out (LIFO) and First-In-First-Out (FIFO) operations</li>
