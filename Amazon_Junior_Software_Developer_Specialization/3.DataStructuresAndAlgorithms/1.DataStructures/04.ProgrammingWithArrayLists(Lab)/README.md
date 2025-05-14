@@ -1,10 +1,10 @@
 The file structure is the following
 <pre>
-src
-    com.lesson.lab
-        controller
+>src
+    >com.lesson.lab
+        >controller
             SeatBooking.java
-        model
+        >model
             Seat.java
         Main.java
 </pre>
