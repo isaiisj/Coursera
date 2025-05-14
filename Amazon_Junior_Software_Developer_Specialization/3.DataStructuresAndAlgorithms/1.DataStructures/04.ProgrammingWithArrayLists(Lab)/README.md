@@ -1,7 +1,12 @@
 The file structure is the following
+<pre>
+    src
+    com.lesson.lab
+        controller
+            SeatBooking.java
+        model
+            Seat.java
+        Main.java
+</pre>
 
-<ul>
-    <li>controller</li>
-    <li>model</li>
-    <li>Main.java</li>
-</ul>
+            
