@@ -1,3 +1,6 @@
+package com.lesson.lab.controller;
+
+import com.lesson.lab.model.Seat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -54,7 +57,7 @@ public class SeatBooking {
         // TODO 8: inform the user if no booking was found for the seat number
         System.out.println("No booking was found");
     }
-  
+    
     // Method to update a booking seat number
     public void updateBooking(String oldSeatNumber, String newSeatNumber) {
         // TODO 9: iterate through the list of booked seats
@@ -76,7 +79,7 @@ public class SeatBooking {
         // TODO 12: inform the user if no booking was found for the old seat number
         System.out.println("Seat " + oldSeatNumber + " not found.");
     }
-  
+    
     // Method to display all bookings
     public void displayBookings() {
         // TODO 13: check if the bookedSeatsList is empty, inform the user that no bookings have been made yet
