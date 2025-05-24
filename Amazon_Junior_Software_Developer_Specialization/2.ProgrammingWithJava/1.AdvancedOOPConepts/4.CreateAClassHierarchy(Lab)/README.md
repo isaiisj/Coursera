@@ -1,7 +1,7 @@
 <p>In this exercise we follow the next hierarchy</p>
 <pre>
-         Person              Date
-           |
+          Person              Date
+            |
      |¯¯¯¯¯¯¯¯¯¯¯¯¯|
   Employee       Student
      |
