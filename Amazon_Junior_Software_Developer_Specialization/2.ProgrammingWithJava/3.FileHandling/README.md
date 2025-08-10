@@ -4,10 +4,19 @@
   writing, and appending data to files. Additionally, you'll explore the concepts of serialization and deserialization, learning how to
   serialize objects to save their state and deserialize them to reconstruct their state.</p>
 <h2>Learning Objectives</h2>
-Identify the importance of file handling in programming .
-Use code to apply file handling.
-Examine types of input and output streams.
-Use code to write to different file types.
-Examine common file input/output (I/O) operations.
-Perform I/O operations using Java Code.
-Implement file I/O operations and serialization / deserialization.
+<ul>
+  <li>Identify the importance of file handling in programming.</li>
+  <li>Use code to apply file handling.</li>
+  <li>Examine types of input and output streams.</li>
+  <li>Use code to write to different file types.</li>
+  <li>Examine common file input/output (I/O) operations.</li>
+  <li>Perform I/O operations using Java Code.</li>
+  <li>Implement file I/O operations and serialization / deserialization.</li>
+</ul>
+
+
+
+
+
+
+
